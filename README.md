@@ -1,2 +1,2 @@
 # microkit
-A general purpose multi-threaded micro-controller application written in Micropython.
+A general purpose multi-threaded micro-controller application framework written in Micropython.
